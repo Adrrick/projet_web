@@ -35,6 +35,6 @@ Pour mener à bien notre projet nous avons utilisé **"xampp"** pour avoir un se
 ## 3.Démarrage.
 
 * Extraire l'archive et placer le dossier **"projet_web"** dans le dossier **"htdocs"** de votre dossier **"xampp"**.
-* Créer une base de donnée nomné **"projet_web"** dans **"phpmyadmin"** et importer le fichier SQL dans l'archive, se qui va crée les 3 tables de la base de donnée nécessaire au fonctionnement du site.
+* Créer une base de donnée nommée **"projet_web"** dans **"phpmyadmin"** et importer le fichier SQL dans l'archive, ce qui va crée les 3 tables de la base de donnée nécessaire au fonctionnement du site.
 * Ouvrir un moteur de recherche puis entrer dans la barre de recherche **"localhost:8080/projet_web"**.
 * Tester les fonctionnalités.
