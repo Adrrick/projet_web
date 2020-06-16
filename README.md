@@ -20,7 +20,6 @@ Malheureusement nous avons manqué de temps pour réalisé le système de messag
 
 Pour mener à bien notre projet nous avons utilisé **"xampp"** pour avoir un serveur apache qui permet de faire tourner notre site en local, ainsi que **"phpmyadmin"** pour nous permettre d'héberger notre base de donnée. Nous avons aussi utilisé plusieurs langages de programmation comme :
 * **Le HTML/CSS.**
-* **Le JavaScript.**
 * **Le PHP.**
 * **Le MySQL pour la BDD.**
 
